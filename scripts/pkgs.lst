@@ -43,7 +43,7 @@ slurp                                                  # region select for scree
 satty                                                  # Modern Screenshot Annotation
 cliphist                                               # clipboard manager
 hyprsunset                                             # blue light filter
-
+swappy
 # --------------------------------------------------- // Dependencies
 polkit-gnome                                           # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
