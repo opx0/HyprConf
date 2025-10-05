@@ -1,5 +1,4 @@
---target=~/.config
 --ignore=.stowrc
 --ignore=.local/*
 --ignore=scripts/*
---ignore=hypr/*
+--ignore=hyprwm/*
